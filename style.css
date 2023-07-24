@@ -13,7 +13,7 @@ body {
 .inner {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: 200px 200px 200px
+    grid-template-rows: 200px 200px 200px;
 }
 
 .img {
@@ -27,12 +27,12 @@ body {
 .btn {
     display: inline-block;
     padding: 10px 20px;
-    border: none
+    border: none;
     background: #f00;
     border-radius: 10px;
     color: #fff;
     text-transform: uppercase;
-    font-weight: 700
+    font-weight: 700;
     transition: background .2s linear;
 
 }
