@@ -1,1 +1,0 @@
-# davidwerent.github.io
